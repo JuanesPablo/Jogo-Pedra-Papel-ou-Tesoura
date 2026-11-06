@@ -1,0 +1,1 @@
+Código desenvolvido em Python para representar o Jogo (pedra, papel ou tesoura) na melhor de 3.
